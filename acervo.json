@@ -1,0 +1,267 @@
+[
+  {
+    "titulo": "Cachinhos de Ouro",
+    "autor": "Recontado por Ana Maria Machado",
+    "capa": "cachinhosdeouro.jpg",
+    "prateleira": "A3",
+    "resumo": "SINOPSE : Cachinhos de Ouro, passeando pela floresta, encontrou uma casa. Lá morava uma família de ursos e tudo tinha três tamanhos: pequeno, médio e grande - as cadeiras, os pratos, as camas. Naquele dia, Mamãe Urso tinha feito um delicioso mingau. Enquanto ele esfriava, foi dar uma volta com Papai Urso e o Neném Ursinho. A menina encontrou a porta da casa aberta, entrou e...",
+    "id": "sesi-001"
+  },
+  {
+    "titulo": "Ideias que rimam mais que palavras",
+    "autor": "Rashid",
+    "capa": "ideiasquerimammaisquepalavras.jpg",
+    "prateleira": "B2",
+    "id": "sesi-002",
+    "resumo": ""
+  },
+  {
+    "titulo": "Janelas",
+    "autor": "Carmen Queralt",
+    "capa": "janelas2014.jpg",
+    "prateleira": "B2",
+    "id": "sesi-003",
+    "resumo": ""
+  },
+  {
+    "titulo": "Lendas da Africa moderna",
+    "autor": "Heloisa Pires Lima e Rosa Maria Tavares Andrade",
+    "capa": "lendasdaafricamoderna.jpg",
+    "prateleira": "B2",
+    "id": "sesi-004",
+    "resumo": ""
+  },
+  {
+    "titulo": "Quarto de desejo-Diário de uma favelada",
+    "autor": "Carolina Maria de Jesus",
+    "capa": "quartodedesejo.jpg",
+    "prateleira": "B2",
+    "id": "sesi-005",
+    "resumo": ""
+  },
+  {
+    "titulo": "Que tem ai? O",
+    "autor": "Rosinha",
+    "capa": "quetemai.jpg",
+    "prateleira": "B2",
+    "id": "sesi-006",
+    "resumo": ""
+  },
+  {
+    "titulo": "Todo mundo tem",
+    "autor": "Edith Derdik",
+    "capa": "todomundotem.jpg",
+    "prateleira": "B2",
+    "id": "sesi-007",
+    "resumo": ""
+  },
+  {
+    "titulo": "A Casa dos muitos caminhos",
+    "autor": "Diana Wynne Jones",
+    "capa": "acasadosmuitoscaminhos.jpg",
+    "prateleira": "B2",
+    "id": "sesi-008",
+    "resumo": ""
+  },
+  {
+    "titulo": "Minha vida fora de série",
+    "autor": "Edith Derdik",
+    "capa": "minhavidaforadeserie.jpg",
+    "prateleira": "B2",
+    "id": "sesi-009",
+    "resumo": ""
+  },
+  {
+    "titulo": "Racionais Mc's",
+    "autor": "Racionais Mc's",
+    "capa": "racionaismc.jpg",
+    "prateleira": "B2",
+    "id": "sesi-010",
+    "resumo": ""
+  },
+  {
+    "titulo": "O Sol é para todos",
+    "autor": "Harper Lee",
+    "capa": "osoleparatodos.jpg",
+    "prateleira": "B2",
+    "id": "sesi-011",
+    "resumo": ""
+  },
+  {
+    "titulo": "Os crimes ABC",
+    "autor": "Agatha Christie",
+    "capa": "oscrimesabc.jpg",
+    "prateleira": "B2",
+    "id": "sesi-012",
+    "resumo": ""
+  },
+  {
+    "titulo": "Queria que você me visse",
+    "autor": "Emery Lord",
+    "capa": "queriaquevocemevisse.jpg",
+    "prateleira": "B2",
+    "id": "sesi-013",
+    "resumo": ""
+  },
+  {
+    "titulo": "Assassinato no Expresso do Oriente",
+    "autor": "Agatha Christie",
+    "capa": "assassinatonoexpressodooriente.jpg",
+    "prateleira": "B2",
+    "id": "sesi-014",
+    "resumo": ""
+  },
+  {
+    "titulo": "Um corpo na Biblioteca",
+    "autor": "Agatha Christie",
+    "capa": "umcorponabiblioteca.jpg",
+    "prateleira": "B2",
+    "id": "sesi-015",
+    "resumo": ""
+  },
+  {
+    "titulo": "Até o verão terminar",
+    "autor": "Colleen Hoover",
+    "capa": "ateoveraoterminar.jpg",
+    "prateleira": "B2",
+    "id": "sesi-016",
+    "resumo": ""
+  },
+  {
+    "titulo": "Enquanto houver limoeiros",
+    "autor": "Zoulfa Katouh",
+    "capa": "enquantohouverlimoeiros.jpg",
+    "prateleira": "B2",
+    "id": "sesi-017",
+    "resumo": ""
+  },
+  {
+    "titulo": "O menino no alto na montanha",
+    "autor": "John Boyne",
+    "capa": "omeninonoaltodamontanha.jpg",
+    "prateleira": "B2",
+    "id": "sesi-018",
+    "resumo": ""
+  },
+  {
+    "titulo": "O Natal de Hercule Poirot",
+    "autor": "Agatha Christie",
+    "capa": "nataldeherculeparrot.jpg",
+    "prateleira": "B2",
+    "id": "sesi-019",
+    "resumo": ""
+  },
+  {
+    "titulo": "Amêndoas",
+    "autor": "Won-pyoug Sohn",
+    "capa": "amendoas.jpg",
+    "prateleira": "B2",
+    "id": "sesi-020",
+    "resumo": ""
+  },
+  {
+    "titulo": "Um crime adormecido",
+    "autor": "Agatha Christie",
+    "capa": "umcrimeadormecido.jpg",
+    "prateleira": "B2",
+    "id": "sesi-021",
+    "resumo": ""
+  },
+  {
+    "titulo": "Manual de Penteados para Crianças Negras",
+    "autor": "Joana Gabriela e Mari Santos",
+    "capa": "manualdospenteados.jpg",
+    "prateleira": "B2",
+    "id": "sesi-022",
+    "resumo": ""
+  },
+  {
+    "titulo": "Morte na Mesopotâmia",
+    "autor": "Agatha Christie",
+    "capa": "mortenamesopotamia.jpg",
+    "prateleira": "B2",
+    "id": "sesi-023",
+    "resumo": ""
+  },
+  {
+    "titulo": "Convite para um homicídio",
+    "autor": "Agatha Christie",
+    "capa": "conviteparaumhomicidio.jpg",
+    "prateleira": "B2",
+    "id": "sesi-024",
+    "resumo": ""
+  },
+  {
+    "titulo": "Maus",
+    "autor": "---",
+    "capa": "maus.jpg",
+    "prateleira": "B2",
+    "id": "sesi-025",
+    "resumo": ""
+  },
+  {
+    "titulo": "Tudo o que nunca fomos",
+    "autor": "Alice Kellen",
+    "edicao": "Duologia Deixe Acontecer - livro 1",
+    "capa": "tudooquenuncafomos.jpg",
+    "prateleira": "B2",
+    "id": "sesi-026",
+    "resumo": ""
+  },
+  {
+    "titulo": "Caçadores de Códigos-o Farol Mal-assombrado",
+    "autor": "Penny Warner",
+    "capa": "cacadoresdecodigos.jpg",
+    "prateleira": "B2",
+    "id": "sesi-027",
+    "resumo": ""
+  },
+  {
+    "titulo": "Amari e os Irmãos da noite",
+    "autor": "B.B.Alstone",
+    "capa": "amarieosirmaosdanoite.jpg",
+    "prateleira": "B2",
+    "id": "sesi-028",
+    "resumo": ""
+  },
+  {
+    "titulo": "Diário de Pilar na África",
+    "autor": "Flávia Lins e Silva",
+    "capa": "diariodepilarnaafrica.jpg",
+    "prateleira": "B2",
+    "id": "sesi-029",
+    "resumo": ""
+  },
+  {
+    "titulo": "Óculos de Cor-Ver e não enxergar",
+    "autor": "Lilia Moritz Schwarcz",
+    "capa": "oculosdecor.jpg",
+    "prateleira": "B2",
+    "id": "sesi-030",
+    "resumo": ""
+  },
+  {
+    "titulo": "Ideias para adiar o fim do Mundo",
+    "autor": "Ailton Krenak",
+    "capa": "ideiasparaadiarofimdomundo.jpg",
+    "prateleira": "B2",
+    "id": "sesi-031",
+    "resumo": ""
+  },
+  {
+    "titulo": "O perigo de um história única",
+    "autor": "Chimamanda Ngozi Adichie",
+    "capa": "operigodeumahistoriaunica.jpg",
+    "prateleira": "B2",
+    "id": "sesi-032",
+    "resumo": ""
+  },
+  {
+    "titulo": "Lendário",
+    "autor": "Stephanie Garber",
+    "capa": "lendario.jpg",
+    "prateleira": "B2",
+    "id": "sesi-033",
+    "resumo": ""
+  }
+]
