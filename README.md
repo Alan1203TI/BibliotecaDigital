@@ -5,7 +5,7 @@ Catálogo para consulta em totem da Escola SESI Dom Bosco. Fonte: Relatório Per
 - 5.362 registros bibliográficos, 7.230 exemplares; inclui DVDs e outros materiais, não somente livros.
 - Cada entrada tem quantidade, número(s) de exemplar, código de acervo, classificação e referência bibliográfica.
 - Busca por título, autor, ISBN e códigos. Listagem paginada para desempenho do totem.
-- Capas carregadas no navegador pela Open Library apenas quando há ISBN formalmente válido. `?default=false` faz exibir a capa genérica se a edição não constar na base. **Não há validação visual de 4.000+ capas nem download em massa**. Capas da Open Library podem divergir em diferentes tiragens mesmo sob ISBN similar.
+- Capas carregadas no navegador pela Open Library apenas quando há ISBN formalmente válido. `?default=false` faz exibir a capa genérica se a edição não constar na base. **Não há validação visual de 4.000+ capapas da Open Library podem divergir em diferentes tiragens mesmo sob ISBN similar.
 - A biblioteca tem ISBNs com erros ou ausentes e alguns títulos extraídos de forma imperfeita; confira `revisarCadastro` e o campo `bibliografia` antes de correções.
 - `prateleira` é 'Consultar bibliotecário': o relatório tem classificação, mas não posição física da prateleira.
 - A quantidade representa exemplares cadastrados no relatório; não é situação de empréstimo/disponibilidade em tempo real.
