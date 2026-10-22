@@ -20,3 +20,23 @@ Na pasta com index.html: `python -m http.server 8080` e acesse `http://localhost
 `acervo-pergamum.json` – catálogo principal. `estatisticas-acervo.json` – métricas e notas de qualidade. `acervo.json` – os 33 registros de demonstração da versão anterior, preservados separadamente e não contados como inventário Pergamum.
 
 Referência de capas: https://openlibrary.org/dev/docs/api/covers
+
+
+## V4: sistema de capas
+- Mantém 23 capas originais vinculadas pelo título aos registros Pergamum (outras capas do acervo original são mantidas na pasta assets).
+- Busca primeiro capa por ISBN/edição (Open Library e Google Books); em seguida, quando necessário, busca por título/autor.
+- As capas remotas **não estão baixadas no ZIP**: precisam de internet no totem e podem não existir nas fontes externas. Capas por título/autor podem ser de edição diferente.
+- Busca por demanda para as capas visíveis, em fila limitada, e registra resultados no `localStorage`.
+- Placeholder SVG local sem mensagem 'Aguarde'.
+- Para atualizar GitHub Pages, substitua arquivos da raiz preservando a pasta `assets`. Após publicar, use Ctrl+F5 no navegador.
+
+## V5 — fontes e limites reais das capas
+
+- O catálogo foi mantido com todos os 5.362 registros do Pergamum.
+- Capas locais anteriores continuam preservadas, e a interface deixa de depender de `assets/default.jpg`.
+- Primeiro tenta Google Books por ISBN conferido no campo `industryIdentifiers`; depois Open Library pela edição ISBN. Se não houver imagem, pesquisa Open Library e Google Books por título e autor.
+- Resultados por título/autor **podem ser capas de outras edições**: no cache local (`sesi-covers-cache-v5`), o campo `method` registra sua origem e se a edição foi confirmada.
+- Se não houver imagem verificada, gera uma capa ilustrativa com o nome da obra, explicitamente marcada `CAPA A CONFIRMAR`. Isso NÃO é uma reprodução da capa verdadeira.
+- Os serviços externos podem impor limites, falhar ou ter imagens ausentes. Este ZIP não contém 5.362 capas verificadas e não foi feita coleta em massa. Os serviços consultados precisam estar acessíveis no navegador do totem.
+- Fontes oficiais: https://openlibrary.org/dev/docs/api/covers e https://developers.google.com/books/docs/v1/reference/volumes.
+- **Atualização:** no GitHub, substitua os arquivos do repositório com o conteúdo extraído desta pasta. Depois abra em janela anônima ou Ctrl+F5. O cache tem nome novo para permitir nova consulta.
